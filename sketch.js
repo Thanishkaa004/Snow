@@ -48,7 +48,7 @@ function draw() {
     snowball.display();
     sling.display();
 
-  text("There is a magical barrier protecting the magical snowflake tree so you must aim the floatig snowball high to collect them.", 300, 580);
+  text("There is a magical barrier protecting the magical snowflake tree so you must aim the floating snowball high to collect them.", 300, 580);
   text("Press space to get the snowball back", 350, 530);
   //textSize(25)
   //text("Score: " + score, 500, 20);
